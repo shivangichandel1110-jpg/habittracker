@@ -1,0 +1,8 @@
+{
+  "name": "HabitFlow — Smart Habit Tracker",
+  "description": "Modern habit tracking web app to build positive daily routines, track streaks, and visualize consistency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
